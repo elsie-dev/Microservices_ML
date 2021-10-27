@@ -1,0 +1,13 @@
+Click
+Flask
+itsdangerous
+Jinja2
+MarkupSafe
+numpy
+pandas
+python-dateutil
+pytz
+scikit-learn
+scipy
+six
+Werkzeug
