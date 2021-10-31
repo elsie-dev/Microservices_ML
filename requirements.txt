@@ -1,5 +1,5 @@
 Click
-Flask
+Flask==1.1.4
 itsdangerous
 Jinja2
 MarkupSafe
