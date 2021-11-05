@@ -7,6 +7,6 @@ kubectl run elsie --image=$dockerpath --port=80
 kubectl get pods 
 # Step 4:
 # Forward the container port to a host
-kubectl port-forward elsie 8000:5001
+kubectl port-forward elsie 8000:80
 
 
