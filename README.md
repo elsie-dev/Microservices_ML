@@ -2,7 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
 
-# Example for specific branch:
+# Circleci branch:
 [![CircleCI](https://app.circleci.com/pipelines/github/elsie-dev/Microservices_project4.svg?style=svg)](https://app.circleci.com/pipelines/github/elsie-dev/Microservices_project4)
 
 ## Project Overview
