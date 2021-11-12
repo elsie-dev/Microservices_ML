@@ -1,9 +1,6 @@
+# CicleCI status
+[![CircleCI](https://circleci.com/gh/elsie-dev/Microservices_ML/tree/main.svg?style=svg)](https://circleci.com/gh/elsie-dev/Microservices_ML/tree/main)
 
-
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
-
-# Circleci branch:
-[![CircleCI](https://app.circleci.com/pipelines/github/elsie-dev/Microservices_project4.svg?style=svg)](https://app.circleci.com/pipelines/github/elsie-dev/Microservices_project4)
 
 ## Project Overview
 
