@@ -1,1 +1,17 @@
 <paste log output from Kubernetes-mediated prediction, here>
+
+Error from server (AlreadyExists): pods "demolocal" already exists
+NAME        READY   STATUS    RESTARTS      AGE
+demolocal   1/1     Running   1 (21h ago)   24h
+Forwarding from 127.0.0.1:8001 -> 80
+Forwarding from [::1]:8001 -> 80
+
+
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
+
+
