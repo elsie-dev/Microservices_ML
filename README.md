@@ -42,3 +42,12 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+### Make predictions for the files
+* While the docker image is running,we can make prediction for the docker file using make_prediction
+* Also make prediction and checking out logs for the kuberenetes file using the make_prediction script
+
+### Configure with Circleci
+Circleci helps in checking the build stages.
+*  Connect your circleci account to your github repo and test out the building progress
+*  Should be able to pass the lint test.
